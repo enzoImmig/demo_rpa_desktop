@@ -1,0 +1,486 @@
+Control Identifiers:
+
+Dialog - 'Fakturama - C:\Users\Enzo\Documents\Fakturama'    (L-8, T-8, R1928, B1040)
+['Dialog', 'Fakturama - C:\\Users\\Enzo\\Documents\\Fakturama', 'Fakturama - C:\\Users\\Enzo\\Documents\\FakturamaDialog']
+child_window(title="Fakturama - C:\Users\Enzo\Documents\Fakturama", control_type="Window")
+   | 
+   | Pane - ''    (L0, T115, R1897, B1032)
+   | ['Pane', 'Web ShopPane', 'Pane0', 'Pane1', 'Web ShopPane0', 'Web ShopPane1']
+   | child_window(auto_id="328126", control_type="Pane")
+   |    | 
+   |    | Pane - ''    (L0, T115, R1897, B1032)
+   |    | ['Pane2', 'Web ShopPane2']
+   |    | child_window(auto_id="721094", control_type="Pane")
+   |    |    | 
+   |    |    | Pane - 'Fakturama Perspective'    (L0, T115, R1897, B1032)
+   |    |    | ['Pane3', 'Fakturama PerspectivePane', 'Fakturama Perspective']
+   |    |    | child_window(title="Fakturama Perspective", auto_id="525788", control_type="Pane")
+   |    |    |    | 
+   |    |    |    | Pane - ''    (L0, T115, R1897, B1032)
+   |    |    |    | ['Pane4', 'Web ShopPane3']
+   |    |    |    | child_window(auto_id="526142", control_type="Pane")
+   |    |    |    |    | 
+   |    |    |    |    | Pane - 'Navigation View'    (L0, T115, R379, B1032)
+   |    |    |    |    | ['Pane5', 'Navigation ViewPane', 'Navigation View']
+   |    |    |    |    | child_window(title="Navigation View", auto_id="526178", control_type="Pane")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Pane - ''    (L0, T115, R379, B1032)
+   |    |    |    |    |    | ['Pane6', 'Web ShopPane4']
+   |    |    |    |    |    | child_window(auto_id="395170", control_type="Pane")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Pane - ''    (L5, T120, R374, B190)
+   |    |    |    |    |    |    | ['Pane7', 'Web ShopPane5']
+   |    |    |    |    |    |    | child_window(auto_id="525504", control_type="Pane")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Web Shop'    (L11, T159, R92, B181)
+   |    |    |    |    |    |    |    | ['Static', 'Web Shop', 'Web ShopStatic', 'Static0', 'Static1']
+   |    |    |    |    |    |    |    | child_window(title="Web Shop", auto_id="852528", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Pane - ''    (L5, T195, R374, B535)
+   |    |    |    |    |    |    | ['Pane8', 'Web ShopPane6']
+   |    |    |    |    |    |    | child_window(auto_id="197874", control_type="Pane")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Documents'    (L11, T234, R99, B256)
+   |    |    |    |    |    |    |    | ['Static2', 'Documents', 'DocumentsStatic']
+   |    |    |    |    |    |    |    | child_window(title="Documents", auto_id="197830", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Products'    (L11, T261, R85, B283)
+   |    |    |    |    |    |    |    | ['Products', 'Static3', 'ProductsStatic']
+   |    |    |    |    |    |    |    | child_window(title="Products", auto_id="133082", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Creditors'    (L11, T288, R86, B310)
+   |    |    |    |    |    |    |    | ['Creditors', 'Static4', 'CreditorsStatic']
+   |    |    |    |    |    |    |    | child_window(title="Creditors", auto_id="133074", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Debtors'    (L11, T315, R79, B337)
+   |    |    |    |    |    |    |    | ['Static5', 'DebtorsStatic', 'Debtors']
+   |    |    |    |    |    |    |    | child_window(title="Debtors", auto_id="133076", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'terms of payment'    (L11, T342, R132, B364)
+   |    |    |    |    |    |    |    | ['terms of payment', 'Static6', 'terms of paymentStatic']
+   |    |    |    |    |    |    |    | child_window(title="terms of payment", auto_id="198614", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Shippings'    (L11, T369, R90, B391)
+   |    |    |    |    |    |    |    | ['ShippingsStatic', 'Static7', 'Shippings']
+   |    |    |    |    |    |    |    | child_window(title="Shippings", auto_id="133104", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'VATs'    (L11, T396, R62, B418)
+   |    |    |    |    |    |    |    | ['VATs', 'Static8', 'VATsStatic']
+   |    |    |    |    |    |    |    | child_window(title="VATs", auto_id="133102", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Texts'    (L11, T423, R64, B445)
+   |    |    |    |    |    |    |    | ['TextsStatic', 'Static9', 'Texts']
+   |    |    |    |    |    |    |    | child_window(title="Texts", auto_id="133106", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Lists'    (L11, T450, R61, B472)
+   |    |    |    |    |    |    |    | ['ListsStatic', 'Static10', 'Lists']
+   |    |    |    |    |    |    |    | child_window(title="Lists", auto_id="459192", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Expenditure Vouchers'    (L11, T477, R151, B499)
+   |    |    |    |    |    |    |    | ['Static11', 'Expenditure Vouchers', 'Expenditure VouchersStatic']
+   |    |    |    |    |    |    |    | child_window(title="Expenditure Vouchers", auto_id="133098", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Receipt Vouchers'    (L11, T504, R128, B526)
+   |    |    |    |    |    |    |    | ['Static12', 'Receipt Vouchers', 'Receipt VouchersStatic']
+   |    |    |    |    |    |    |    | child_window(title="Receipt Vouchers", auto_id="197876", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Pane - ''    (L5, T540, R374, B637)
+   |    |    |    |    |    |    | ['Pane9', 'Receipt VouchersPane']
+   |    |    |    |    |    |    | child_window(auto_id="394688", control_type="Pane")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'New product'    (L11, T579, R107, B601)
+   |    |    |    |    |    |    |    | ['New productStatic', 'Static13', 'New product', 'New product0', 'New product1']
+   |    |    |    |    |    |    |    | child_window(title="New product", auto_id="133080", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'New Contact'    (L11, T606, R107, B628)
+   |    |    |    |    |    |    |    | ['New ContactStatic', 'Static14', 'New Contact']
+   |    |    |    |    |    |    |    | child_window(title="New Contact", auto_id="197962", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Pane - ''    (L5, T642, R374, B766)
+   |    |    |    |    |    |    | ['Pane10', 'New ContactPane']
+   |    |    |    |    |    |    | child_window(auto_id="133086", control_type="Pane")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'ParcelService'    (L11, T681, R107, B703)
+   |    |    |    |    |    |    |    | ['Static15', 'ParcelServiceStatic', 'ParcelService']
+   |    |    |    |    |    |    |    | child_window(title="ParcelService", auto_id="133118", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'www.fakturama.info'    (L11, T708, R146, B730)
+   |    |    |    |    |    |    |    | ['www.fakturama.info', 'Static16', 'www.fakturama.infoStatic']
+   |    |    |    |    |    |    |    | child_window(title="www.fakturama.info", auto_id="460242", control_type="Text")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Static - 'Calculator'    (L11, T735, R92, B757)
+   |    |    |    |    |    |    |    | ['Static17', 'Calculator', 'CalculatorStatic']
+   |    |    |    |    |    |    |    | child_window(title="Calculator", auto_id="133116", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | TabControl - 'New product'    (L383, T115, R1897, B1032)
+   |    |    |    |    | ['New productTabControl', 'New product2', 'TabControl']
+   |    |    |    |    | child_window(title="New product", auto_id="198636", control_type="Tab")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Toolbar - ''    (L1845, T116, R1891, B138)
+   |    |    |    |    |    | ['Toolbar', 'ToolbarMaximize', 'Toolbar0', 'Toolbar1']
+   |    |    |    |    |    | child_window(auto_id="67596", control_type="ToolBar")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Minimize'    (L1845, T116, R1868, B138)
+   |    |    |    |    |    |    | ['Minimize', 'MinimizeButton', 'Button', 'Button0', 'Button1']
+   |    |    |    |    |    |    | child_window(title="Minimize", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Maximize'    (L1868, T116, R1891, B138)
+   |    |    |    |    |    |    | ['Minimize', 'MinimizeButton', 'Button', 'Button0', 'Button1']
+   |    |    |    |    |    |    | child_window(title="Maximize", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Pane - 'New product'    (L386, T141, R1894, B1029)
+   |    |    |    |    |    | ['Pane11', 'New product3', 'New productPane']
+   |    |    |    |    |    | child_window(title="New product", auto_id="67602", control_type="Pane")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Pane - ''    (L386, T141, R1894, B1029)
+   |    |    |    |    |    |    | ['Pane12', 'Item NumberPane', 'Item NumberPane0', 'Item NumberPane1']
+   |    |    |    |    |    |    | child_window(auto_id="67604", control_type="Pane")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Pane - ''    (L386, T141, R1894, B1029)
+   |    |    |    |    |    |    |    | ['Pane13', 'Item NumberPane2']
+   |    |    |    |    |    |    |    | child_window(auto_id="67606", control_type="Pane")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Description'    (L391, T151, R1240, B774)
+   |    |    |    |    |    |    |    |    | ['Description', 'DescriptionGroupBox', 'GroupBox', 'Description0', 'Description1', 'GroupBox0', 'GroupBox1']
+   |    |    |    |    |    |    |    |    | child_window(title="Description", auto_id="67610", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'Item Number'    (L428, T174, R499, B189)
+   |    |    |    |    |    |    |    |    |    | ['Static18', 'Item NumberStatic', 'Item Number']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Item Number", auto_id="67612", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'Item Number'    (L504, T171, R1232, B192)
+   |    |    |    |    |    |    |    |    |    | ['Item NumberEdit', 'Edit', 'Edit0', 'Edit1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Item Number", auto_id="67614", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'Name'    (L467, T200, R499, B215)
+   |    |    |    |    |    |    |    |    |    | ['Name', 'Static19', 'NameStatic']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Name", auto_id="67616", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'Name'    (L504, T197, R1232, B218)
+   |    |    |    |    |    |    |    |    |    | ['Edit2', 'NameEdit']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Name", auto_id="67618", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'Category'    (L451, T226, R499, B241)
+   |    |    |    |    |    |    |    |    |    | ['CategoryStatic', 'Static20', 'Category', 'Category0', 'Category1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Category", auto_id="67620", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | ComboBox - 'Category'    (L504, T223, R1232, B244)
+   |    |    |    |    |    |    |    |    |    | ['Category2', 'CategoryComboBox', 'ComboBox', 'ComboBox0', 'ComboBox1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Category", auto_id="67622", control_type="ComboBox")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Edit - 'Category'    (L506, T225, R1213, B242)
+   |    |    |    |    |    |    |    |    |    |    | ['Edit3', 'CategoryEdit']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="Category", auto_id="67624", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Button - 'Open'    (L1213, T225, R1230, B242)
+   |    |    |    |    |    |    |    |    |    |    | ['Open', 'Button3', 'OpenButton']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="Open", auto_id="67626", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'GTIN'    (L472, T252, R499, B267)
+   |    |    |    |    |    |    |    |    |    | ['Static21', 'GTIN', 'GTINStatic']
+   |    |    |    |    |    |    |    |    |    | child_window(title="GTIN", auto_id="67632", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'GTIN'    (L504, T249, R1232, B270)
+   |    |    |    |    |    |    |    |    |    | ['Edit4', 'GTINEdit']
+   |    |    |    |    |    |    |    |    |    | child_window(title="GTIN", auto_id="67634", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'supplier code'    (L428, T278, R499, B293)
+   |    |    |    |    |    |    |    |    |    | ['Static22', 'supplier code', 'supplier codeStatic']
+   |    |    |    |    |    |    |    |    |    | child_window(title="supplier code", auto_id="67636", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'supplier code'    (L504, T275, R1232, B296)
+   |    |    |    |    |    |    |    |    |    | ['Edit5', 'supplier codeEdit', 'supplier codeEdit0', 'supplier codeEdit1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="supplier code", auto_id="67638", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'Description'    (L439, T336, R499, B351)
+   |    |    |    |    |    |    |    |    |    | ['Static23', 'Description2', 'DescriptionStatic']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Description", auto_id="67640", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'Description'    (L504, T301, R1232, B387)
+   |    |    |    |    |    |    |    |    |    | ['Edit6', 'DescriptionEdit', 'supplier codeEdit2']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Description", auto_id="67642", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | ScrollBar - 'Vertical'    (L1213, T303, R1230, B385)
+   |    |    |    |    |    |    |    |    |    |    | ['ScrollBar', 'Vertical', 'VerticalScrollBar']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="Vertical", auto_id="NonClientVerticalScrollBar", control_type="ScrollBar")
+   |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    | Button - 'Uma linha acima'    (L1213, T303, R1230, B320)
+   |    |    |    |    |    |    |    |    |    |    |    | ['Button4', 'Uma linha acimaButton', 'Uma linha acima']
+   |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Uma linha acima", auto_id="UpButton", control_type="Button")
+   |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    | Button - 'Uma linha abaixo'    (L1213, T368, R1230, B385)
+   |    |    |    |    |    |    |    |    |    |    |    | ['Uma linha abaixo', 'Button5', 'Uma linha abaixoButton']
+   |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Uma linha abaixo", auto_id="DownButton", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'Price (gross)'    (L434, T395, R499, B410)
+   |    |    |    |    |    |    |    |    |    | ['Static24', 'Price (gross)Static', 'Price (gross)']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Price (gross)", auto_id="67648", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Pane - ''    (L504, T392, R653, B413)
+   |    |    |    |    |    |    |    |    |    | ['Pane14', 'Price (gross)Pane']
+   |    |    |    |    |    |    |    |    |    | child_window(auto_id="67650", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Edit - ''    (L521, T392, R653, B413)
+   |    |    |    |    |    |    |    |    |    |    | ['Price (gross)Edit', 'Edit7']
+   |    |    |    |    |    |    |    |    |    |    | child_window(auto_id="67658", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'cost price (net)'    (L420, T421, R499, B436)
+   |    |    |    |    |    |    |    |    |    | ['Static25', 'cost price (net)', 'cost price (net)Static']
+   |    |    |    |    |    |    |    |    |    | child_window(title="cost price (net)", auto_id="67692", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Pane - ''    (L504, T418, R1232, B439)
+   |    |    |    |    |    |    |    |    |    | ['Pane15', 'cost price (net)Pane']
+   |    |    |    |    |    |    |    |    |    | child_window(auto_id="67694", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Edit - ''    (L504, T418, R636, B439)
+   |    |    |    |    |    |    |    |    |    |    | ['Edit8', 'cost price (net)Edit']
+   |    |    |    |    |    |    |    |    |    |    | child_window(auto_id="67696", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Static - 'allowance'    (L641, T421, R694, B436)
+   |    |    |    |    |    |    |    |    |    |    | ['Static26', 'allowance', 'allowanceStatic']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="allowance", auto_id="67698", control_type="Text")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Edit - 'allowance'    (L699, T418, R831, B439)
+   |    |    |    |    |    |    |    |    |    |    | ['allowanceEdit', 'Edit9']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="allowance", auto_id="67700", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'VAT'    (L479, T448, R499, B463)
+   |    |    |    |    |    |    |    |    |    | ['VATStatic', 'Static27', 'VAT', 'VAT0', 'VAT1', 'VATStatic0', 'VATStatic1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="VAT", auto_id="67702", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | ComboBox - 'VAT'    (L504, T444, R589, B467)
+   |    |    |    |    |    |    |    |    |    | ['VAT2', 'ComboBox2', 'VATComboBox']
+   |    |    |    |    |    |    |    |    |    | child_window(title="VAT", auto_id="67704", control_type="ComboBox")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Static - 'VAT'    (L3, T3, R65, B20)
+   |    |    |    |    |    |    |    |    |    |    | ['VATStatic2', 'Static28', 'VAT3']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="VAT", control_type="Text")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Button - 'Abrir'    (L573, T445, R588, B466)
+   |    |    |    |    |    |    |    |    |    |    | ['Abrir', 'Button6', 'AbrirButton']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="Abrir", auto_id="DropDown", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'Stock'    (L470, T475, R499, B490)
+   |    |    |    |    |    |    |    |    |    | ['StockStatic', 'Static29', 'Stock']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Stock", auto_id="67712", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'Stock'    (L504, T472, R1232, B493)
+   |    |    |    |    |    |    |    |    |    | ['Edit10', 'StockEdit']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Stock", auto_id="67714", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'user defined field 1'    (L399, T501, R499, B516)
+   |    |    |    |    |    |    |    |    |    | ['user defined field 1', 'Static30', 'user defined field 1Static']
+   |    |    |    |    |    |    |    |    |    | child_window(title="user defined field 1", auto_id="67716", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'user defined field 1'    (L504, T498, R1232, B519)
+   |    |    |    |    |    |    |    |    |    | ['Edit11', 'user defined field 1Edit']
+   |    |    |    |    |    |    |    |    |    | child_window(title="user defined field 1", auto_id="67718", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'user defined field 2'    (L399, T527, R499, B542)
+   |    |    |    |    |    |    |    |    |    | ['user defined field 2Static', 'user defined field 2', 'Static31']
+   |    |    |    |    |    |    |    |    |    | child_window(title="user defined field 2", auto_id="67720", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'user defined field 2'    (L504, T524, R1232, B545)
+   |    |    |    |    |    |    |    |    |    | ['user defined field 2Edit', 'Edit12']
+   |    |    |    |    |    |    |    |    |    | child_window(title="user defined field 2", auto_id="67722", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Static - 'user defined field 3'    (L399, T553, R499, B568)
+   |    |    |    |    |    |    |    |    |    | ['Static32', 'user defined field 3', 'user defined field 3Static']
+   |    |    |    |    |    |    |    |    |    | child_window(title="user defined field 3", auto_id="67724", control_type="Text")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - 'user defined field 3'    (L504, T550, R1232, B571)
+   |    |    |    |    |    |    |    |    |    | ['Edit13', 'user defined field 3Edit', 'user defined field 3Edit0', 'user defined field 3Edit1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="user defined field 3", auto_id="67726", control_type="Edit")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Product Picture'    (L1245, T151, R1889, B774)
+   |    |    |    |    |    |    |    |    | ['Product PictureGroupBox', 'Product Picture', 'GroupBox2']
+   |    |    |    |    |    |    |    |    | child_window(title="Product Picture", auto_id="67728", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Pane - ''    (L1454, T171, R1680, B372)
+   |    |    |    |    |    |    |    |    |    | ['Pane16', 'Item NumberPane3']
+   |    |    |    |    |    |    |    |    |    | child_window(auto_id="67730", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Pane - ''    (L1466, T183, R1668, B360)
+   |    |    |    |    |    |    |    |    |    |    | ['Pane17', 'Item NumberPane4']
+   |    |    |    |    |    |    |    |    |    |    | child_window(auto_id="67732", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    | Pane - ''    (L1466, T183, R1668, B360)
+   |    |    |    |    |    |    |    |    |    |    |    | ['Pane18', 'Item NumberPane5']
+   |    |    |    |    |    |    |    |    |    |    |    | child_window(auto_id="67734", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    | Image - ''    (L1466, T188, R1668, B340)
+   |    |    |    |    |    |    |    |    |    |    |    |    | ['NameImage', 'Image']
+   |    |    |    |    |    |    |    |    |    |    |    |    | child_window(auto_id="67736", control_type="Image")
+   |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    | Pane - 'Select a Picture'    (L1487, T340, R1567, B355)
+   |    |    |    |    |    |    |    |    |    |    |    |    | ['Pane19', 'Select a PicturePane', 'Select a Picture', 'Select a Picture0', 'Select a Picture1']
+   |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Select a Picture", auto_id="67738", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | Hyperlink - 'Select a Picture'    (L1487, T340, R1567, B355)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Hyperlink', 'Select a PictureHyperlink', 'Select a Picture2', 'Hyperlink0', 'Hyperlink1']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Select a Picture", control_type="Hyperlink")
+   |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    | Pane - 'delete'    (L1615, T340, R1647, B355)
+   |    |    |    |    |    |    |    |    |    |    |    |    | ['Pane20', 'delete', 'deletePane', 'delete0', 'delete1']
+   |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="delete", auto_id="67740", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | Hyperlink - 'delete'    (L1615, T340, R1647, B355)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Hyperlink2', 'delete2', 'deleteHyperlink']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="delete", control_type="Hyperlink")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Notice'    (L391, T779, R1889, B1024)
+   |    |    |    |    |    |    |    |    | ['Notice', 'GroupBox3', 'NoticeGroupBox']
+   |    |    |    |    |    |    |    |    | child_window(title="Notice", auto_id="67742", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - ''    (L399, T799, R1881, B1016)
+   |    |    |    |    |    |    |    |    |    | ['Edit14', 'user defined field 3Edit2']
+   |    |    |    |    |    |    |    |    |    | child_window(auto_id="67744", control_type="Edit")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | TabItem - 'New product'    (L383, T115, R527, B138)
+   |    |    |    |    |    | ['New productTabItem', 'New product4', 'TabItem']
+   |    |    |    |    |    | child_window(title="New product", control_type="TabItem")
+   | 
+   | Pane - ''    (L0, T43, R1920, B115)
+   | ['Pane21']
+   | child_window(auto_id="591700", control_type="Pane")
+   |    | 
+   |    | Pane - ''    (L5, T48, R1915, B110)
+   |    | ['Pane22']
+   |    | child_window(auto_id="263234", control_type="Pane")
+   |    |    | 
+   |    |    | Toolbar - ''    (L16, T52, R159, B106)
+   |    |    | ['Toolbar2', 'ToolbarPrint/Export this document as an OpenOffice Writer document', 'ToolbarSave']
+   |    |    | child_window(auto_id="262618", control_type="ToolBar")
+   |    |    |    | 
+   |    |    |    | Button - 'Get new orders and products from web shop'    (L16, T52, R81, B106)
+   |    |    |    | ['Get new orders and products from web shopButton', 'Get new orders and products from web shop', 'Button7']
+   |    |    |    | child_window(title="Get new orders and products from web shop", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Print/Export this document as an OpenOffice Writer document'    (L81, T52, R120, B106)
+   |    |    |    | ['Get new orders and products from web shopButton', 'Get new orders and products from web shop', 'Button7']
+   |    |    |    | child_window(title="Print/Export this document as an OpenOffice Writer document", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Save'    (L120, T52, R159, B106)
+   |    |    |    | ['Get new orders and products from web shopButton', 'Get new orders and products from web shop', 'Button7']
+   |    |    |    | child_window(title="Save", control_type="Button")
+   |    |    | 
+   |    |    | Toolbar - ''    (L174, T52, R317, B106)
+   |    |    | ['Toolbar3', 'ToolbarCreate: New Delivery Note', 'ToolbarCreate: New Invoice']
+   |    |    | child_window(auto_id="656700", control_type="ToolBar")
+   |    |    |    | 
+   |    |    |    | Button - 'Create: New Order'    (L174, T52, R215, B106)
+   |    |    |    | ['Create: New Order', 'Button10', 'Create: New OrderButton']
+   |    |    |    | child_window(title="Create: New Order", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Create: New Invoice'    (L215, T52, R264, B106)
+   |    |    |    | ['Create: New Order', 'Button10', 'Create: New OrderButton']
+   |    |    |    | child_window(title="Create: New Invoice", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Create: New Delivery Note'    (L264, T52, R317, B106)
+   |    |    |    | ['Create: New Order', 'Button10', 'Create: New OrderButton']
+   |    |    |    | child_window(title="Create: New Delivery Note", control_type="Button")
+   |    |    | 
+   |    |    | Toolbar - ''    (L332, T48, R608, B110)
+   |    |    | ['Toolbar4', 'ToolbarCreate: New Expenditure', 'ToolbarCreate: New Receipt Voucher', 'ToolbarCreate a new contact']
+   |    |    | child_window(auto_id="328124", control_type="ToolBar")
+   |    |    |    | 
+   |    |    |    | Button - 'Create a new product'    (L332, T48, R385, B110)
+   |    |    |    | ['Create a new product', 'Create a new productButton', 'Button13']
+   |    |    |    | child_window(title="Create a new product", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Create: New Expenditure'    (L459, T48, R558, B110)
+   |    |    |    | ['Create a new product', 'Create a new productButton', 'Button13']
+   |    |    |    | child_window(title="Create: New Expenditure", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Create: New Receipt Voucher'    (L558, T48, R608, B110)
+   |    |    |    | ['Create a new product', 'Create a new productButton', 'Button13']
+   |    |    |    | child_window(title="Create: New Receipt Voucher", control_type="Button")
+   |    |    | 
+   |    |    | Toolbar - ''    (L623, T52, R1915, B106)
+   |    |    | ['Toolbar5', 'ToolbarOpen the project web site www.fakturama.info', 'ToolbarOpen the calculator']
+   |    |    | child_window(auto_id="460800", control_type="ToolBar")
+   |    |    |    | 
+   |    |    |    | Button - 'Open the web site of the parcel service.'    (L623, T52, R666, B106)
+   |    |    |    | ['Open the web site of the parcel service.', 'Open the web site of the parcel service.Button', 'Button16']
+   |    |    |    | child_window(title="Open the web site of the parcel service.", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Open the project web site www.fakturama.info'    (L666, T52, R705, B106)
+   |    |    |    | ['Open the web site of the parcel service.', 'Open the web site of the parcel service.Button', 'Button16']
+   |    |    |    | child_window(title="Open the project web site www.fakturama.info", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Open the calculator'    (L705, T52, R770, B106)
+   |    |    |    | ['Open the web site of the parcel service.', 'Open the web site of the parcel service.Button', 'Button16']
+   |    |    |    | child_window(title="Open the calculator", control_type="Button")
+   | 
+   | Pane - ''    (L1897, T115, R1920, B1032)
+   | ['Pane23']
+   | child_window(auto_id="67586", control_type="Pane")
+   |    | 
+   |    | Pane - ''    (L1897, T115, R1920, B164)
+   |    | ['Pane24']
+   |    | child_window(auto_id="67590", control_type="Pane")
+   |    |    | 
+   |    |    | Toolbar - ''    (L1897, T120, R1920, B164)
+   |    |    | ['Toolbar6']
+   |    |    | child_window(auto_id="67588", control_type="ToolBar")
+   |    |    |    | 
+   |    |    |    | Button - ''    (L1897, T120, R1920, B142)
+   |    |    |    | ['Button19']
+   |    |    |    | 
+   |    |    |    | CheckBox - ''    (L1897, T142, R1920, B164)
+   |    |    |    | ['CheckBox']
+   | 
+   | TitleBar - ''    (L16, T-5, R1920, B23)
+   | ['TitleBar']
+   |    | 
+   |    | Menu - 'Sistema'    (L0, T0, R22, B22)
+   |    | ['Menu', 'Sistema', 'SistemaMenu', 'Sistema0', 'Sistema1', 'Menu0', 'Menu1']
+   |    | child_window(title="Sistema", auto_id="MenuBar", control_type="MenuBar")
+   |    |    | 
+   |    |    | MenuItem - 'Sistema'    (L0, T0, R22, B22)
+   |    |    | ['MenuItem', 'Sistema2', 'SistemaMenuItem', 'MenuItem0', 'MenuItem1']
+   |    |    | child_window(title="Sistema", control_type="MenuItem")
+   |    | 
+   |    | Button - 'Minimizar'    (L1779, T0, R1826, B22)
+   |    | ['Button20', 'Minimizar', 'MinimizarButton']
+   |    | child_window(title="Minimizar", control_type="Button")
+   |    | 
+   |    | Button - 'Restaurar'    (L1826, T0, R1872, B22)
+   |    | ['RestaurarButton', 'Button21', 'Restaurar']
+   |    | child_window(title="Restaurar", control_type="Button")
+   |    | 
+   |    | Button - 'Fechar'    (L1872, T0, R1920, B22)
+   |    | ['Fechar', 'Button22', 'FecharButton']
+   |    | child_window(title="Fechar", control_type="Button")
+   | 
+   | Menu - 'Aplicativo'    (L0, T23, R1920, B42)
+   | ['Menu2', 'AplicativoMenu', 'Aplicativo']
+   | child_window(title="Aplicativo", auto_id="MenuBar", control_type="MenuBar")
+   |    | 
+   |    | MenuItem - 'File'    (L0, T23, R32, B42)
+   |    | ['MenuItem2', 'FileMenuItem', 'File']
+   |    | child_window(title="File", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Edit'    (L32, T23, R66, B42)
+   |    | ['MenuItem3', 'Edit15', 'EditMenuItem']
+   |    | child_window(title="Edit", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Data'    (L66, T23, R104, B42)
+   |    | ['MenuItem4', 'Data', 'DataMenuItem']
+   |    | child_window(title="Data", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'New'    (L104, T23, R142, B42)
+   |    | ['MenuItem5', 'NewMenuItem', 'New']
+   |    | child_window(title="New", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Extra'    (L142, T23, R181, B42)
+   |    | ['MenuItem6', 'Extra', 'ExtraMenuItem']
+   |    | child_window(title="Extra", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Window'    (L181, T23, R239, B42)
+   |    | ['MenuItem7', 'WindowMenuItem', 'Window']
+   |    | child_window(title="Window", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Help'    (L239, T23, R278, B42)
+   |    | ['MenuItem8', 'HelpMenuItem', 'Help']
+   |    | child_window(title="Help", control_type="MenuItem")
